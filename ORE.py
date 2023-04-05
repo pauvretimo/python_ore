@@ -2,7 +2,7 @@ import hashlib
 
 class ORE:
 
-    def __init__(self, key, size = 16,   = 16):
+    def __init__(self, key, size = 16, LEN  = 16):
         self.key = key
         self.LEN = LEN
         self.size = size
