@@ -1,6 +1,4 @@
 import hashlib
-from string import ascii_uppercase, digits
-from Crypto.Random.random import randint
 
 class ORE:
 
