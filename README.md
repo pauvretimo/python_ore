@@ -2,7 +2,7 @@
 
 This is a simple implementation of an Order Revealing Encryption mainly inspired bypython
 [kpatsakis/OrderRevealingEncryptio](https://github.com/kpatsakis/OrderRevealingEncryption) 
-and [this lesson](https://icerm.brown.edu/materials/Slides/tw19-1-es/Order-Revealing_En`cryption_-_Definitions,_Constructions,_and_Challenges_]_David_Wu,_University_of_Virginia.pdf)
+and [this lesson](https://icerm.brown.edu/materials/Slides/tw19-1-es/Order-Revealing_Encryption_-_Definitions,_Constructions,_and_Challenges_]_David_Wu,_University_of_Virginia.pdf)
 
 # Small test
 
