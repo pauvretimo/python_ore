@@ -7,6 +7,8 @@ and [this lesson](https://icerm.brown.edu/materials/Slides/tw19-1-es/Order-Revea
 # Small test
 
 ```python
+from Crypto.Random.random import randint
+
 def int_comp(u, v):
     if u == v:
         return 0
